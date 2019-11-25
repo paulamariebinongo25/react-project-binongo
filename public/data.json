@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "name": "Paula",
+    "age": "20",
+    "gender": "Female"
+  },
+  {
+    "id": "1",
+    "name": "Cleford",
+    "age": "20",
+    "gender": "Male"
+  },
+  {
+    "id": "2",
+    "name": "Mark",
+    "age": "21",
+    "gender": "Male"
+  },
+  {
+    "id": "3",
+    "name": "Paulo",
+    "age": "16",
+    "gender": "Male"
+  },
+  {
+    "id": "4",
+    "name": "Marei",
+    "age": "10",
+    "gender": "Female"
+  },
+  {
+    "id": "5",
+    "name": "Carla",
+    "age": "12",
+    "gender": "Female"
+  }
+]
